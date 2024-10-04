@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/10/03 14:23:05.000.005,=C:\Users\0xPaulo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/03 14:23:25.000.274,C:\Users\0xPaulo\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\0xPaulo\Documents\Embarcadero\Studio\Projects\Calculadora\Unit1.pas</Transaction>
+    <Transaction>2024/10/03 14:23:25.000.274,C:\Users\0xPaulo\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\0xPaulo\Documents\Embarcadero\Studio\Projects\Calculadora\Unit1.dfm</Transaction>
+    <Transaction>2024/10/03 14:23:28.000.419,C:\Users\0xPaulo\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\0xPaulo\Documents\Embarcadero\Studio\Projects\Calculadora\Project1.dproj</Transaction>
+    <Transaction>2024/10/03 14:24:50.000.372,C:\Users\0xPaulo\Documents\Embarcadero\Studio\Projects\Calculadora\Project1.dproj=C:\Users\0xPaulo\Documents\Embarcadero\Studio\Projects\Calculadora\Calculadora.dproj</Transaction>
+    <Transaction>2024/10/03 14:25:55.000.748,C:\Users\0xPaulo\Documents\Embarcadero\Studio\Projects\Calculadora\Unit1.pas=C:\Users\0xPaulo\Documents\Embarcadero\Studio\Projects\Calculadora\Principal.pas</Transaction>
+    <Transaction>2024/10/03 14:25:55.000.748,C:\Users\0xPaulo\Documents\Embarcadero\Studio\Projects\Calculadora\Unit1.dfm=C:\Users\0xPaulo\Documents\Embarcadero\Studio\Projects\Calculadora\Principal.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Principal.pas"/>
+    <File Path="Principal.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
