@@ -2,13 +2,14 @@ program Calculadora;
 
 uses
   Vcl.Forms,
-  Principal in 'Principal.pas' {Form1};
+  uPrincipal in 'uPrincipal.pas' {fCalculadora},
+  uCalculadoraInterf in 'uCalculadoraInterf.pas';
 
 {$R *.res}
 
 begin
   Application.Initialize;
   Application.MainFormOnTaskbar := True;
-  Application.CreateForm(TForm1, Form1);
+  Application.CreateForm(TfCalculadora, fCalculadora);
   Application.Run;
 end.

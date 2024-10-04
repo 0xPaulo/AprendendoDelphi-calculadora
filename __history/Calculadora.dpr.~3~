@@ -1,0 +1,14 @@
+program Calculadora;
+
+uses
+  Vcl.Forms,
+  Principal in 'Principal.pas' {fView};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfView, fView);
+  Application.Run;
+end.
